@@ -29,7 +29,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Krishi Moolya – Crop Price Prediction 
 
 🌱 Learning: 
+
     LangChain • FastAPI • AWS Deployment
+    
     System Design & Architecture – understanding how things actually work in real-world projects
 
 📍 Based in India
