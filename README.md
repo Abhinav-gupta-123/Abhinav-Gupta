@@ -1,6 +1,6 @@
 <!-- Animated SVG Banner -->
 <p align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Hi%20👋%2C%20I'm%20Aadish%20Sanghvi&height=100&color0=ff7e5f&color1=feb47b&animation=wave" alt="Hi, I'm Abhinav Gupta" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Hi%20👋%2C%20I'm%20Abhinav%20Gupta&height=100&color0=ff7e5f&color1=feb47b&animation=wave" alt="Hi, I'm Abhinav Gupta" />
 </p>
 
 <!-- Typing SVG -->
